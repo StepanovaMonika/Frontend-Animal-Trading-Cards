@@ -1,0 +1,52 @@
+/* add your CSS here */
+.card {
+	border: 8px solid #fffbe6;
+	border-radius: 12px;
+	width: 320px;
+	margin: 0 auto;
+	padding: 5px;
+	background-color: black;
+	color: #fffbe6;
+	font-family: sans-serif;
+}
+
+.title {
+	padding: 0 10px;
+	text-align: center;
+}
+
+h3 {
+	margin: 5px;
+}
+
+.image {
+	padding: 0 10px 10px;
+	width: 300px;
+}
+
+.information {
+	border: 2px solid #fffbe6;
+	border-radius: 7px;
+	padding: 10px;
+	width: 280px;
+	margin: 0 auto 7px;
+}
+
+.interesting-fact {
+	font-style: italic;
+}
+
+.list {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+.bold {
+	font-weight: bold;
+	color: #fff6d0;
+}
+
+
+
+
+
